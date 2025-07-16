@@ -14,7 +14,7 @@
 
 ## Introduction
 
-This app i'ts made in angular V16..
+This app i'ts made in angular V15..
 
 ## Utility
 
