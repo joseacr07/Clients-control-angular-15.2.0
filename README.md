@@ -1,13 +1,13 @@
 
 ![m (1)](https://github.com/jose-campos1/clients-control/assets/106594685/522cd4af-f573-4371-a35c-8b1a2f6fa8fe)
 
-<h2>Clients-Control APP<h2>
-
+<h2>Live Clients-Economy-Control APP<h2>
+ 
 ## Index
 * [index](#index)
   * [introduction](#introduction)
   * [utility](#utility)
-  * [firestore](#firestore)
+  * [firestore/Hosting](#firestore)
   * [functions](#functions)
   * [tokens](#tokens)
   * [documentation](#documentation)
@@ -18,7 +18,7 @@ This app i'ts made in angular V15..
 
 ## Utility
 
-the most challenging isue was to work with different library versions because there are "bugs" in newer versions, that do not work properly with other newer versions of [Google database](https://console.firebase.google.com/u/0/project/client-control-project/firestore/data/~2Fclients~2F1j96OtWKUgPXe77z9oUs)
+the most challenging isue was to work with different library versions because there are "bugs" in newer versions,do the hosting. Newer versions do not work properly with other newer versions of [Google database](https://console.firebase.google.com/u/0/project/client-control-project/firestore/data/~2Fclients~2F1j96OtWKUgPXe77z9oUs)
 
 ## Firestore
 
@@ -32,7 +32,7 @@ Some interesting functions that i want to mention here it's to change directly t
 
 In this case there are secret tokens inside the merge and the deploy of the app, i will be leaving documentation in the bottom please dont hesitate to ask to perform some modifications.. </p>
 
-## Documentation
+## Documentation Hosting
 
 [Firestore Actions](https://github.com/marketplace/actions/github-action-for-firebase)
 <br>
